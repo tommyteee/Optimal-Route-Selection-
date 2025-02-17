@@ -44,7 +44,3 @@ Activated paths in the shortest route
 
 Total minimized travel distance
 
-
-License
-
-This project is licensed under the MIT License.
